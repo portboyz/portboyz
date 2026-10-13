@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/b",
+      "destination": "https://open.spotify.com/track/4sPSytxrUIZnm1AwcotXZa?si=5dfe6076e548454a",
+      "permanent": false
+    },
+    {
+      "source": "/smf",
+      "destination": "https://open.spotify.com/",
+      "permanent": false
+    },
+    {
+      "source": "/rookie",
+      "destination": "https://open.spotify.com/",
+      "permanent": false
+    }
+  ]
+}
