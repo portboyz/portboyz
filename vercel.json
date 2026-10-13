@@ -6,7 +6,17 @@
       "permanent": false
     },
     {
+      "source": "/b-a",
+      "destination": "https://music.apple.com/ch/album/b/6813040726",
+      "permanent": false
+    },
+    {
       "source": "/smf",
+      "destination": "https://open.spotify.com/",
+      "permanent": false
+    },
+    {
+      "source": "/smf-a",
       "destination": "https://open.spotify.com/",
       "permanent": false
     },
