@@ -12,12 +12,12 @@
     },
     {
       "source": "/smf",
-      "destination": "https://open.spotify.com/",
+      "destination": "https://open.spotify.com/track/6FrPAMJxW89yaymA9BUbua?si=c8613b0a5e7a4156",
       "permanent": false
     },
     {
       "source": "/smf-a",
-      "destination": "https://open.spotify.com/",
+      "destination": "https://music.apple.com/ch/album/swiss-made-flavour/6823370933",
       "permanent": false
     },
     {
