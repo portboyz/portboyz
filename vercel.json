@@ -1,28 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/b",
-      "destination": "https://open.spotify.com/track/4sPSytxrUIZnm1AwcotXZa?si=5dfe6076e548454a",
-      "permanent": false
-    },
-    {
-      "source": "/b-a",
-      "destination": "https://music.apple.com/ch/album/b/6813040726",
-      "permanent": false
-    },
-    {
-      "source": "/smf",
-      "destination": "https://open.spotify.com/track/6FrPAMJxW89yaymA9BUbua?si=c8613b0a5e7a4156",
-      "permanent": false
-    },
-    {
-      "source": "/smf-a",
-      "destination": "https://music.apple.com/ch/album/swiss-made-flavour/6823370933",
-      "permanent": false
-    },
-    {
       "source": "/rookie",
-      "destination": "https://open.spotify.com/",
+      "destination": "https://open.spotify.com/album/6kwDRVx3ZWtdJm058D4x1q?si=9iiVq2vySbymqRKd-98h1w",
+      "permanent": false
+    },
+    {
+      "source": "/r",
+      "destination": "https://music.apple.com/ch/album/rookie-ep/6808659329",
       "permanent": false
     }
   ]
